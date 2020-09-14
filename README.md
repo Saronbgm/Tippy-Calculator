@@ -3,9 +3,9 @@
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Saron Ghebremariam**
 
-Time spent: **X** hours spent in total
+Time spent: **4.0** hours spent in total
 
 ## User Stories
 
@@ -29,13 +29,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/a/6kA04Vb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [KAP](https://i.imgur.com/a/6kA04Vb.gif).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- accidentally deleted my code and had to figure out how to restore it.
+- navigating xcode itself, because am not too familiar with it. 
 
 ## License
 
