@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/a/6kA04Vb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/6kA04Vb.gif' title='' width='' alt='' />
 
 GIF created with [KAP](https://i.imgur.com/a/6kA04Vb.gif).
 
