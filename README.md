@@ -29,11 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/6kA04Vb
 
-<img src= "https://imgur.com/a/6kA04Vb.gif" title='Video walkthrough' width='video walkthrough' alt='' />
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:207.22%;position:relative;"><iframe width="360" height="746" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ez5s7"></iframe></div><p><a href="https://imgflip.com/gif/4ez5s7">via Imgflip</a></p></div>
-GIF created with [KAP](https://i.imgur.com/a/6kA04Vb.gif).
+<img src= "https://imgur.com/a/6kA04Vb" width= 250 > <br>
+
 
 ## Notes
 
